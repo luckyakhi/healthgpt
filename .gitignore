@@ -1,0 +1,95 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Environment variables / credentials
+.env
+.env.*
+
+# Pyre type checker
+.pyre/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Model outputs and intermediate data
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.h5
+*.pb
+*.joblib
+*.npz
+*.npy
+
+# HuggingFace / Transformers cache
+~/.cache/
+~/.huggingface/
+huggingface/
+
+# VS Code
+.vscode/
+
+# Jupyter notebooks - output cells (if using nbstripout)
+*.nbstripout
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.sqlite
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
